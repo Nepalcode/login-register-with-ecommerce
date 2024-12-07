@@ -1,0 +1,1 @@
+ {"product_name": "Iphone", "product_quantity": "1", "product_price": "1000050", "product_manufacture": "2023"}-{"product_name": "laptop", "product_quantity": "20", "product_price": "12000000", "product_manufacture": "2024"}-{"product_name": "bag", "product_quantity": "18", "product_price": "1500", "product_manufacture": "2024"}-
